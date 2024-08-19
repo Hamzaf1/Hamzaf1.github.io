@@ -18,6 +18,14 @@ html {
 p {
   color: rgb(85, 85, 85);
 }
+/*logo*/
+#logo{
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  margin-left: -55px;
+
+}
 
 /* TRANSITION */
 
